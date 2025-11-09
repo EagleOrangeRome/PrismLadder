@@ -4,6 +4,8 @@ import { HardhatEthersSigner } from "@nomicfoundation/hardhat-ethers/signers";
 import { PrismLadderCompensation } from "../types";
 import { FhevmType } from "@fhevm/hardhat-plugin";
 
+// Test suite for PrismLadderCompensation contract
+
 type Signers = {
   deployer: HardhatEthersSigner;
   alice: HardhatEthersSigner;
