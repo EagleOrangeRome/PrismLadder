@@ -211,6 +211,7 @@ export default function HomePage() {
             <div className="p-6 bg-white/40 dark:bg-neutral-800/40 backdrop-blur-lg rounded-2xl border border-white/20 dark:border-neutral-700/50">
               <div className="text-5xl font-bold bg-gradient-to-r from-primary-600 to-primary-500 bg-clip-text text-transparent mb-2">100%</div>
               <div className="text-lg font-medium text-neutral-700 dark:text-neutral-300">Privacy Guaranteed</div>
+              {/* Enhanced privacy indicator */}
             </div>
             <div className="p-6 bg-white/40 dark:bg-neutral-800/40 backdrop-blur-lg rounded-2xl border border-white/20 dark:border-neutral-700/50">
               <div className="text-5xl font-bold bg-gradient-to-r from-secondary-600 to-secondary-500 bg-clip-text text-transparent mb-2">0</div>
