@@ -8,6 +8,7 @@ import {ZamaEthereumConfig} from "@fhevm/solidity/config/ZamaConfig.sol";
  * @title PrismLadderCompensation
  * @notice Privacy-preserving salary transparency platform using FHEVM
  * @dev Allows encrypted compensation submission and homomorphic aggregate analysis
+ * @author PrismLadder Team
  */
 contract PrismLadderCompensation is ZamaEthereumConfig {
     // Role enumeration (plaintext for grouping)
