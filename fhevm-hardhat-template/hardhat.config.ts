@@ -23,6 +23,7 @@ const config: HardhatUserConfig = {
   namedAccounts: {
     deployer: 0,
   },
+  // Network configuration for FHEVM
   etherscan: {
     apiKey: {
       sepolia: vars.get("ETHERSCAN_API_KEY", ""),
