@@ -1,6 +1,7 @@
 /**
  * Wallet Persistence
  * Storage keys: wallet.lastConnectorId, wallet.lastAccounts, wallet.lastChainId, wallet.connected
+ * Handles wallet state persistence across page reloads
  */
 
 export interface WalletState {
