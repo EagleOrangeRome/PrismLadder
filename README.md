@@ -172,7 +172,7 @@ zama_PrismLadder/
 
 ### Smart Contracts
 - **Solidity**: ^0.8.24
-- **FHEVM**: @fhevm/solidity ^0.9.1
+- **FHEVM**: @fhevm/solidity ^0.9.1 (latest stable)
 - **Hardhat**: Development and testing framework
 - **Ethers.js**: Ethereum interaction library
 
@@ -182,7 +182,7 @@ zama_PrismLadder/
 - **TypeScript**: ^5.3.3
 - **Tailwind CSS**: Styling
 - **Radix UI**: Component library
-- **FHEVM Integration**: @zama-fhe/relayer-sdk and @fhevm/mock-utils
+- **FHEVM Integration**: @zama-fhe/relayer-sdk ^0.3.0-7 and @fhevm/mock-utils ^0.3.0-2 (updated to latest versions)
 
 ## 📜 Available Scripts
 
